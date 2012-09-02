@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Webs>
+  <Catalog ID="1" Name="收藏夹">
+    <Web ID="1" Name="百度" Url="http://www.baidu.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="爱奇艺" Url="http://www.iqiyi.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="优酷" Url="http://www.youku.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="土豆" Url="http://www.tudou.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="猫扑贴贴" Url="http://tt.mop.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="6" Name="UU鸟" Url="http://bbs.uuniao.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="7" Name="维基百科" Url="http://zh.wikipedia.org/">
+      <Note></Note>
+    </Web>
+    <Web ID="8" Name="微软首页" Url="http://www.microsoft.com/zh-cn/default.aspx">
+      <Note></Note>
+    </Web>
+    <Web ID="9" Name="知乎" Url="http://www.zhihu.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="10" Name="点点网" Url="http://www.diandian.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="11" Name="读者" Url="http://www.ledu365.com/mulu/duzhe/">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="2" Name="IT资讯">
+    <Web ID="1" Name="伯乐在线" Url="http://blog.jobbole.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="博客园" Url="http://www.cnblogs.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="36氪" Url="http://www.36kr.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="移动开发" Url="http://www.devdiv.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="优酷IT视频" Url="http://www.youku.com/v_showlist/t1c105g262d1.html">
+      <Note></Note>
+    </Web>
+    <Web ID="6" Name="译言网" Url="http://www.yeeyan.org/channel/tech">
+      <Note></Note>
+    </Web>
+    <Web ID="7" Name="CSDN .Net频道" Url="http://dotnet.csdn.net/">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="3" Name="学习天地">
+    <Web ID="1" Name="中国IT实验室" Url="http://bbs.chinaitlab.com/forum.php">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="Adobe 视频开发" Url="http://labs.adobe.com/technologies/cirrus/samples/">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="ASP.NET 社区" Url="http://www.asp.net/">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="VS2010 在线学习" Url="http://msdn.microsoft.com/zh-cn/ff698535.aspx">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="网络基础" Url="http://www.px029.com/view/5365.html">
+      <Note></Note>
+    </Web>
+    <Web ID="6" Name=".Net 网络通信" Url="http://www.hztraining.com/bbs/showtopic-1315.aspx">
+      <Note></Note>
+    </Web>
+    <Web ID="7" Name="Webcast 系列课程" Url="http://msdn.microsoft.com/zh-cn/ff959293.aspx#framework">
+      <Note></Note>
+    </Web>
+    <Web ID="8" Name="C++ 开发中心" Url="http://msdn.microsoft.com/zh-cn/visualc/aa336412.aspx">
+      <Note></Note>
+    </Web>
+    <Web ID="9" Name="C# 论坛" Url="http://social.microsoft.com/Forums/zh-CN/visualcshartzhchs/threads">
+      <Note></Note>
+    </Web>
+    <Web ID="10" Name="C# 代码分享" Url="http://www.oschina.net/code/list/3/csharp?sort=time">
+      <Note></Note>
+    </Web>
+    <Web ID="11" Name="W3cschool" Url="http://www.w3school.com.cn/">
+      <Note></Note>
+    </Web>
+    <Web ID="12" Name="曾详展 博客" Url="http://www.cnblogs.com/zengxiangzhan/">
+      <Note></Note>
+    </Web>
+    <Web ID="13" Name="C# 细说多线程" Url="http://www.cnblogs.com/leslies2/archive/2012/02/07/2310495.html">
+      <Note></Note>
+    </Web>
+    <Web ID="14" Name="C# 线程手册" Url="http://www.cnblogs.com/danielWise/default.aspx?page=4">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="4" Name="文章收藏">
+    <Web ID="1" Name="单态设计模式" Url="http://blog.jobbole.com/24162/">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="C++ Downloader 源码" Url="http://www.myhack58.com/Article/html/3/68/2008/19083.htm">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="CSS 模块化编码" Url="http://blog.jobbole.com/8350/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=css%25e6%25a8%25a1%25e5%259d%2597%25e5%258c%2596%25e7%25bc%2596%25e7%25a0%2581%25e8%25ae%25a9%25e5%25bc%2580%25e5%258f%2591%25e4%25ba%258b%25e5%258d%258a%25e5%258a%259f%25e5%2580%258d">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="Null Object设计模式" Url="http://www.cnblogs.com/DayDayUp-Chen/archive/2011/06/03/2072015.html">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name=".net 内存泄露解决" Url="http://www.cnblogs.com/ccchai/archive/2011/06/14/2080919.html">
+      <Note></Note>
+    </Web>
+    <Web ID="6" Name="C# 事件解析" Url="http://www.cnblogs.com/michaelxu/archive/2008/04/02/1134217.html">
+      <Note></Note>
+    </Web>
+    <Web ID="7" Name="C# 自定义控件开发" Url="http://www.sudu.cn/info/html/edu/20071226/30045.html">
+      <Note></Note>
+    </Web>
+    <Web ID="8" Name="正则表达式" Url="http://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html#mission">
+      <Note></Note>
+    </Web>
+    <Web ID="9" Name="互联网协议入门" Url="http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html">
+      <Note></Note>
+    </Web>
+    <Web ID="10" Name=".Net 不规则窗体设计" Url="http://www.cnblogs.com/liutao409/archive/2010/11/01/1866104.html">
+      <Note></Note>
+    </Web>
+    <Web ID="11" Name="C# 重写WndProc" Url="http://www.cnblogs.com/lanmiao/articles/2238236.html">
+      <Note></Note>
+    </Web>
+    <Web ID="12" Name="C# 自定义属性" Url="http://www.builder.com.cn/2007/0418/387624.shtml">
+      <Note></Note>
+    </Web>
+    <Web ID="13" Name="ASP.NET 页面打印" Url="http://tech.ddvip.com/2007-08/118798478032980_2.html">
+      <Note></Note>
+    </Web>
+    <Web ID="14" Name="PropertyGrid 心得" Url="http://www.cnblogs.com/Tammie/archive/2011/08/05/2128804.html">
+      <Note></Note>
+    </Web>
+    <Web ID="15" Name="GridView 72般绝技" Url="http://blog.csdn.net/21aspnet/article/details/1540301">
+      <Note></Note>
+    </Web>
+    <Web ID="16" Name="使CLR对象对动态语言更友好" Url="http://www.cnblogs.com/Cajon/archive/2008/08/16/support_add_remove_attribute_on_clr_object_ironpython.html">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="5" Name="MVC专题">
+    <Web ID="1" Name="ASP.NET MVC 翻译" Url="http://www.cnblogs.com/024hi/archive/2009/03/19/ASP_NET_MVC_SAMPLE_CONTACT_MANAGER_1.html">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="ASP.NET MVC Ajax 之旅" Url="http://www.cnblogs.com/leoo2sk/archive/2008/07/22/1248660.html">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="ASP.NET MVC 学习文章" Url="http://www.cnblogs.com/n-pei/archive/2011/01/26/1945018.html">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="ASP.NET MVC 学习文章" Url="http://www.cnblogs.com/chsword/archive/2008/03/10/dotnetmvcframework.html">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="ASP.NET MVC 案例教程" Url="http://www.cnblogs.com/leoo2sk/archive/2008/10/27/1320285.html">
+      <Note></Note>
+    </Web>
+    <Web ID="6" Name="博客园技术专题" Url="http://kb.cnblogs.com/zt/mvc/">
+      <Note></Note>
+    </Web>
+    <Web ID="7" Name="Action 粒度 权限管理" Url="http://www.cnblogs.com/legendxian/archive/2010/01/22/1653368.html">
+      <Note></Note>
+    </Web>
+    <Web ID="8" Name="扩展异步Action功能" Url="http://www.cnblogs.com/JeffreyZhao/archive/2009/02/02/extend-asp-net-mvc-for-asynchronous-action.html">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="6" Name="CSS专题">
+    <Web ID="1" Name="CSS 动画演示" Url="http://www.qianduan.net/47-amazing-css3-animation.html">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="CSS 博客" Url="http://www.qianduan.net/category/css-research">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="CSS 前段开发" Url="http://www.css88.com/archives/category/xhtmlcss/html5css3">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="CSS 按钮样式" Url="http://www.css88.com/demo/AnimatedButtons/index.html">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="CSS 泡沫按钮" Url="http://www.html5china.com/CSS3/20111003_2136.html">
+      <Note></Note>
+    </Web>
+    <Web ID="6" Name="CSS 3D变化" Url="http://www.iefans.net/ie10-css3-3d-bianhuan/">
+      <Note></Note>
+    </Web>
+    <Web ID="7" Name="CSS 博客" Url="http://www.jsmix.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="8" Name="CSS 教程" Url="http://www.html5cn.org/portal.php?mod=list&amp;catid=16">
+      <Note></Note>
+    </Web>
+    <Web ID="9" Name="CSS 博客" Url="http://www.rainleaves.com/html/category/html_css/page/2">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="7" Name="WCF专题">
+    <Web ID="1" Name="WCF 技术剖析" Url="http://www.cnblogs.com/artech/archive/2009/11/21/1607686.html">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="8" Name="WPF专题">
+    <Web ID="1" Name="WPF 博客" Url="http://www.cnblogs.com/DragonInSea/category/184598.html">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="9" Name="C++专题">
+    <Web ID="1" Name="C++ API" Url="http://edu.gamfe.com/t/11049.html">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="10" Name="JQuery专题">
+    <Web ID="1" Name="JQuery 智能提示插件" Url="http://www.cnblogs.com/walkerwang/archive/2011/02/17/1956918.html">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="JQuery 页面打印" Url="http://www.jb51.net/article/7562.htm">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="JQuery 1000插件" Url="http://www.cnblogs.com/liaigang/archive/2011/01/13/1934765.html">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="JQuery 社区" Url="http://bbs.jquery.org.cn/forum.php">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="JQuery 100特效" Url="http://developer.51cto.com/art/201011/235489.htm">
+      <Note></Note>
+    </Web>
+    <Web ID="6" Name="JQuery 29导航栏" Url="http://developer.51cto.com/art/201107/278939_2.htm">
+      <Note></Note>
+    </Web>
+    <Web ID="7" Name="JQuery 入门到精通" Url="http://developer.51cto.com/art/201005/202450.htm">
+      <Note></Note>
+    </Web>
+    <Web ID="8" Name="JQuery 插件大阅兵" Url="http://developer.51cto.com/art/201102/245390.htm">
+      <Note></Note>
+    </Web>
+    <Web ID="9" Name="JQuery zTree" Url="http://www.baby666.cn/v3/main.php">
+      <Note></Note>
+    </Web>
+    <Web ID="10" Name="JQuery 插件例子" Url="http://www.webdesignerwall.com/demo/jquery/">
+      <Note></Note>
+    </Web>
+    <Web ID="11" Name="JQuery 插件开发解析" Url="http://www.iteye.com/topic/545971">
+      <Note></Note>
+    </Web>
+    <Web ID="12" Name="JQuery 插件开发" Url="http://www.cnblogs.com/fromearth/archive/2009/07/08/1519054.html">
+      <Note></Note>
+    </Web>
+    <Web ID="13" Name="反向Ajax" Url="http://kb.cnblogs.com/page/112185/">
+      <Note></Note>
+    </Web>
+    <Web ID="14" Name="Ext 插件" Url="http://www.ibm.com/developerworks/web/library/wa-aj-extjs/">
+      <Note></Note>
+    </Web>
+    <Web ID="15" Name="UEditor 插件" Url="http://ueditor.baidu.com/website/ipanel/panel.html#">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="11" Name="Workflow专题">
+    <Web ID="1" Name="WF 从入门到精通 翻译" Url="http://www.cnblogs.com/gyche/archive/2008/03/30/1113256.html">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="WF4.0 从入门到精通 翻译" Url="http://www.cnblogs.com/hegezhou_hot/archive/2011/06/15/2081405.html">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="自定义工作流" Url="http://msdn.microsoft.com/zh-cn/library/dd489440.aspx">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="WXWinter(冬) 博客" Url="http://www.cnblogs.com/foundation/">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="WF 设计器" Url="http://www.cnblogs.com/lodestar/archive/2008/05/08/1188655.html">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="12" Name="WinPhone专题">
+    <Web ID="1" Name="WinPhone 社区" Url="https://dev.windowsphone.com/en-us/home">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="WinPhone 范例" Url="http://msdn.microsoft.com/zh-cn/windowsphone/gg318625">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="13" Name="WebSocket专题">
+    <Web ID="1" Name="WebSocket 实现" Url="http://www.cnblogs.com/TianFang/archive/2012/04/02/2429954.html">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="WCF WebSocket" Url="http://blog.csdn.net/fangxinggood/article/details/6820063">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="WebSocket 简单实例" Url="http://www.cnblogs.com/xiaoyaoguzhu/archive/2011/12/15/2288349.html">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="WebSocket 热门博客" Url="http://www.iteye.com/blogs/tag/websocket">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="14" Name="工具收藏">
+    <Web ID="1" Name="Github" Url="https://github.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="Read Later" Url="http://www.instapaper.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="Lesktop" Url="http://www.lesktop.com/blog/article.aspx?ID=12">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="SuperWebSocket" Url="http://superwebsocket.codeplex.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="Google code" Url="http://code.google.com/intl/zh-CN/">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="15" Name="工具帮助">
+    <Web ID="1" Name="Lesktop 帮助" Url="http://www.cnblogs.com/lucc/archive/2010/11/15/1877929.html">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="Git 帮助" Url="http://blog.jobbole.com/25808/">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="Web Essentials 详解" Url="http://www.cnblogs.com/TomXu/archive/2011/11/22/2258849.html">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="SharpZip 帮助" Url="http://www.cnblogs.com/zengwei/archive/2007/08/22/865778.html">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="LightSwitch 初试" Url="http://blog.csdn.net/supertyro/article/details/6739282">
+      <Note></Note>
+    </Web>
+    <Web ID="6" Name="FCKEditor 帮助" Url="http://www.cnblogs.com/zengxiangzhan/archive/2010/03/10/1682702.html">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="16" Name="扩展阅读">
+    <Web ID="1" Name="Facebook 系统架构" Url="http://blog.sina.com.cn/s/blog_5c57b5190100qjl4.html">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="C#与QQ 通信" Url="http://blog.csdn.net/hellotianma/article/details/5766015">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="仿淘宝API" Url="http://www.iteye.com/topic/1121252">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="怎样花两年时间去面试一个人" Url="http://www.cnblogs.com/rubylouvre/archive/2011/11/08/2241664.html">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="17" Name="高清电影">
+    <Web ID="1" Name="66影视综合网" Url="http://www.66ys.cc/">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="521高清影院" Url="http://www.521easy.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="电影天堂" Url="http://www.dytt8.net/">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="18" Name="音乐调频">
+    <Web ID="1" Name="Jing音乐" Url="http://jing.fm/">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="豆瓣音乐" Url="http://douban.fm/">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="19" Name="视频收藏">
+    <Web ID="1" Name="银魂" Url="http://www.tudou.com/albumplay/tu2_3AhegUY/JNookf077Y4.html">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="柯南" Url="http://kankan.xunlei.com/vod/mp4/48/48001.shtml#2773224">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="仙剑奇侠传1" Url="http://www.tudou.com/listplay/Yn-8xH7MZ38/IV6hPPm4AJQ.html">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="20" Name="休闲娱乐">
+    <Web ID="1" Name="AcFun.tv" Url="http://www.acfun.tv/">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="21" Name="帮助">
+    <Web ID="1" Name="商务读书推荐" Url="http://bbs.rednet.cn/thread-18759554-1-1.html">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="商务网站推荐" Url="http://www.zhihu.com/question/19697776">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="控件命名规范" Url="http://wenku.baidu.com/view/9c090e6c1eb91a37f1115c4e.html">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="Web辅助工具推荐" Url="http://blog.jobbole.com/20130/">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="程序员读书推荐" Url="http://blog.jobbole.com/5886/">
+      <Note></Note>
+    </Web>
+    <Web ID="6" Name="ASP.NET MVC 工具推荐" Url="http://kb.cnblogs.com/page/91221/">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="22" Name="文档">
+    <Web ID="1" Name="Win32 API" Url="http://msdn.microsoft.com/en-us/library/ms645616">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name=".Net Framework 工具" Url="http://msdn.microsoft.com/zh-cn/library/d9kh6s92.aspx">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name=".Net Framework 类库" Url="http://msdn.microsoft.com/zh-cn/library/ms229335.aspx">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="ASP.NET MVC3" Url="http://msdn.microsoft.com/zh-cn/library/gg416514(v=VS.98).aspx">
+      <Note></Note>
+    </Web>
+  </Catalog>
+  <Catalog ID="23" Name="其他">
+    <Web ID="1" Name="大铭的快乐时间" Url="http://www.wzradio.com.cn/plugin.php?id=wz_music:wz_music&amp;mod=player&amp;wzid=1">
+      <Note></Note>
+    </Web>
+    <Web ID="2" Name="必应词典" Url="http://dict.bing.com.cn/">
+      <Note></Note>
+    </Web>
+    <Web ID="3" Name="腾讯新闻" Url="http://v.qq.com/news/index.html">
+      <Note></Note>
+    </Web>
+    <Web ID="4" Name="博客导航" Url="http://www.bokedaohang.com/">
+      <Note></Note>
+    </Web>
+    <Web ID="5" Name="在线生成艺术字" Url="http://bbs.tt86.com/read.php?tid=393572">
+      <Note></Note>
+    </Web>
+    <Web ID="6" Name="UU网站开通" Url="http://www.uueasy.com/default.php">
+      <Note></Note>
+    </Web>
+    <Web ID="7" Name="天之痕攻略" Url="http://fanhsu.blog.163.com/blog/static/375791632011018111059509/">
+      <Note></Note>
+    </Web>
+    <Web ID="8" Name="网页布局下载" Url="http://www.aa25.cn/layout/">
+      <Note></Note>
+    </Web>
+    <Web ID="9" Name="HTML 颜色代号" Url="http://tool.webmasterhome.cn/html-color.asp">
+      <Note></Note>
+    </Web>
+    <Web ID="10" Name="Json在线校验" Url="http://www.bejson.com/go.html?u=http://www.bejson.com/">
+      <Note></Note>
+    </Web>
+  </Catalog>
+</Webs>

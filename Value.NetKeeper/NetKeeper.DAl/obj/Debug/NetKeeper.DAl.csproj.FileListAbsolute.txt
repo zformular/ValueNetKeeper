@@ -1,0 +1,8 @@
+E:\ValueProgram\Value.NetKeeper\Value.NetKeeper\NetKeeper.DAl\DynamicLink\NetKeeper.DAl.dll
+E:\ValueProgram\Value.NetKeeper\Value.NetKeeper\NetKeeper.DAl\DynamicLink\NetKeeper.DAl.pdb
+E:\ValueProgram\Value.NetKeeper\Value.NetKeeper\NetKeeper.DAl\obj\Debug\ResolveAssemblyReference.cache
+E:\ValueProgram\Value.NetKeeper\Value.NetKeeper\NetKeeper.DAl\obj\Debug\NetKeeper.DAl.dll
+E:\ValueProgram\Value.NetKeeper\Value.NetKeeper\NetKeeper.DAl\obj\Debug\NetKeeper.DAl.pdb
+E:\ValueProgram\Value.NetKeeper\Value.NetKeeper\NetKeeper.DAl\DynamicLink\ValueHelper.dll
+E:\ValueProgram\Value.NetKeeper\Value.NetKeeper\NetKeeper.DAl\DynamicLink\NetKeeper.Commom.dll
+E:\ValueProgram\Value.NetKeeper\Value.NetKeeper\NetKeeper.DAl\DynamicLink\NetKeeper.Commom.pdb
